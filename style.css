@@ -1,0 +1,64 @@
+body {
+  width: 100%;
+  padding: 0;
+  margin: 0;
+}
+
+.container {
+  display: flex;
+  height: 100%;
+}
+
+.right-container {
+  background: cyan;
+  width: 80%;
+  padding: 1em;
+}
+
+.left-container {
+  background: goldenrod;
+  width: 20%;
+  padding: 3em;
+}
+
+.blog-header {
+  background: purple;
+  padding: 3px;
+}
+
+button {
+  background: blue;
+  color: #fff;
+  width: 260px;
+  height: 100px;
+  padding: 12px;
+  font-size: 32px;
+  border: none;
+}
+
+.dark-theme {
+  background: #000;
+  color: #fff;
+  padding: 3px;
+}
+
+.article-gray {
+  background: gray;
+}
+
+.paratext {
+  background: #000;
+  color: white;
+  width: 80%;
+  padding: 1em;
+}
+
+.right-container-update {
+  background: yellow;
+  width: 80%;
+  padding: 1em;
+}
+
+.count {
+  margin-bottom: 300px;
+}
